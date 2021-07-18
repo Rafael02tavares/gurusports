@@ -1,10 +1,7 @@
-export default function Home() {
-  return (
-    <div>
-      import React from 'react';
+import React from 'react';
 import { Button, Form, FormGroup, Label, Input } from 'reactstrap';
 
-const Example = (props) => {
+const login = (props) => {
   return (
     <Form inline>
       <FormGroup className="mb-2 mr-sm-2 mb-sm-0">
@@ -20,7 +17,4 @@ const Example = (props) => {
   );
 }
 
-export default Example;
-    </div>
-  )
-}
+export default login;
