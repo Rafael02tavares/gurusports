@@ -28,7 +28,7 @@ const login = (props) => {
       </div>
       <div>
           <h2>Bem vindo ao Guru Sports</h2>
-          <p>tenha os melhores palpites de placar sporte é informativos sobre as rodadas.</p>
+          <p>tenha os melhores palpites de placar sportivos é informativos sobre as rodadas.</p>
           <p>faça login com</p>
           <a href="#">
           <i class="fa fa-facebook fa-fw"></i> Login com Facebook
